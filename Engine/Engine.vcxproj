@@ -176,6 +176,7 @@
     <ClInclude Include="Mat2.h" />
     <ClInclude Include="Mat3.h" />
     <ClInclude Include="Mouse.h" />
+    <ClInclude Include="PatternMatchingListener.h" />
     <ClInclude Include="Pipeline.h" />
     <ClInclude Include="PubeScreenTransformer.h" />
     <ClInclude Include="Rect.h" />
